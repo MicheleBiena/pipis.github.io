@@ -5,9 +5,10 @@ permalink: /errorlog/
 ---
 
 <audio controls autoplay loop>
-  <source src="/assets/audio/spamton_battle_forgotten.mp3" type="audio/mpeg">
+  <source src="{{ '/assets/audio/spamton_battle_forgotten.mp3' / relative_url}}" type="audio">
   Il tuo browser non supporta l'elemento audio.
 </audio>
+
 
 # ERRORE: ACCESSO NEGATO
 
