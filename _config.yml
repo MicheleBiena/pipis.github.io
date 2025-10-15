@@ -2,4 +2,4 @@ title: Project Pipis
 description: Il capitolo è chiuso, ma i dati restano. Premi [RE-INIT] per un affare che non ha più un nome.
 theme: minima   # tema base incluso da GitHub Pages
 markdown: kramdown
-baseurl: "pipis.github.io"
+baseurl: pipis.github.io
