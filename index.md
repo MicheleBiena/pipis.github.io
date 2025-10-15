@@ -35,7 +35,7 @@ Ogni [BIG SHOT](https://www.deltarune.com/sighting) ha il suo prezzo.
 
 Scegli bene.  
 Scegli **veloce**.  
-Scegli [adesso](/capitolo1).
+Scegli [adesso]({{'/capitolo1/' | relative_url}}).
 
 ---
 
