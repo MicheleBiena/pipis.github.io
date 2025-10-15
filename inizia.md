@@ -8,7 +8,7 @@ permalink: /inizia/
 
 > HEY [CUSTOMER]!!  
 > Finalmente sei qui! Ho trovato qualcosa di INTERESSANTE per te…  
-> Ma attenzione: non tutto è [OFFERTA](/)!!  
+> Ma attenzione: non tutto è [OFFERTA](/pipis.github.io)!!  
 > Alcuni file si mangiano da soli. Altri… si mangiano te.
 
 Hai già visto i [FOGLI DI CALCOLO]({{'/capitolo1/' | relative_url}})?  
