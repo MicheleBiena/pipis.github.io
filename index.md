@@ -31,7 +31,7 @@ Se non funziona, non preoccuparti — non è colpa **tua** (ma lo sarà presto).
 
 Ogni offerta è un passo verso la **[VERA LIBERTÀ]**.  
 Ogni passo è una discesa verso [NULLPIPE].  
-Ogni BIG SHOT ha il suo prezzo.
+Ogni [BIG SHOT](https://www.deltarune.com/sighting) ha il suo prezzo.
 
 Scegli bene.  
 Scegli **veloce**.  
