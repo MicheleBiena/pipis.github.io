@@ -23,7 +23,7 @@ Non è un ricordo. È un contratto.
 Le scelte erano [FINTE]. Le offerte no.  
 Hai cliccato “Sì” una volta. Ora devi cliccare ancora.
 
-Prova a cliccare questa [parola](/inizia).  
+Prova a cliccare questa [parola](pipis.github.io/inizia).  
 Se funziona, il [GLORP SYSTEM] ti riconoscerà.  
 Se non funziona, non preoccuparti — non è colpa **tua** (ma lo sarà presto).
 
