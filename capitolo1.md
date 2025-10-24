@@ -24,7 +24,7 @@ Attraverso lo sgabuzzino, però, scopriamo che esiste il **mondo oscuro**, una d
 Si accede a questo mondo attraverso una **fenditura** oscura.
 
 ### Personaggi principali
-![WARRIORS](https://static.wikia.nocookie.net/vsbattles/images/b/bb/Heroes_of_Legend.png/revision/latest?cb=20230402071324)
+![WARRIORS](https://preview.redd.it/a-human-a-monster-and-a-prince-from-the-dark-the-three-v0-khygf3emiwed1.jpg?width=640&crop=smart&auto=webp&s=6fc37c898546ac66e47b9c8d11ded109b02d9461)
 - **Kris** – protagonista silenzioso, apparentemente controllato da un'entità esterna (cioè *noi*).  
 - **Susie** – compagna di classe ribelle, inizialmente aggressiva, poi alleata.  
 - **Ralsei** – misterioso principe del mondo oscuro, guida e amico del gruppo.  
