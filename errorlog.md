@@ -15,14 +15,15 @@ permalink: /errorlog/
 - `[FILE_MANCANTE]`  
 - `[FRAMMENTO]` non valido  
 - `[BIG_SHOT]` mancante
+- [CALDE NABBOCCHINE A 5KM DA TE](https://www.aqform.com/en/BUCLO,sc873)
 
-> Alcuni dicono che chi resta qui troppo a lungo vede cose… che non dovrebbero.  
+> Alcuni dicono che chi resta qui troppo a lungo vede cose… che non si dovrebbero vedere.  
 > Altri dicono che il vicolo non ha fondo.  
 > Io dico: **non c'è bisogno di capire tutto**, basta [tornare indietro]({{'/inizia/' | relative_url}}).
 
 ---
 
-### Note da Spamton
+### Note da S94m:0n
 
 > Ricorda: anche i vicoli ciechi hanno valore.  
 > Forse un giorno… qualcuno troverà un [FILE SEGRETO](https://deltarune.com/lancer/).  

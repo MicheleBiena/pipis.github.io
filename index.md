@@ -18,27 +18,30 @@ E tu… TU hai già firmato.
 > `[CONNESSIONE]` persa.  
 > `[CUORE]` duplicato con errore di checksum.
 
+> `[PUMPKING PROTOCOL]` in esecuzione.
+
 Ricordi il **Capitolo 1**?  
 Non è un ricordo. È un contratto.  
 Le scelte erano [FINTE]. Le offerte no.  
 Hai cliccato “Sì” una volta. Ora devi cliccare ancora.
 
-Prova a cliccare questa [parola]({{'/inizia/' | relative_url}}).  
+Quando hai finito di esplorare il [[KEYGEN]] prova a cliccare questa [chiave]({{'/inizia/' | relative_url}}).  
 Se funziona, il [GLORP SYSTEM] ti riconoscerà.  
 Se non funziona, non preoccuparti — non è colpa **tua** (ma lo sarà presto).
 
 ---
 
 Ogni offerta è un passo verso la **[VERA LIBERTÀ]**.  
-Ogni passo è una discesa verso [NULLPIPE].  
+Ogni passo è una discesa verso [UCCIDI LA TUA TV].  
 Ogni [BIG SHOT](https://www.deltarune.com/sighting) ha il suo prezzo.
 
 Scegli bene.  
-Scegli **veloce**.  
-Scegli [adesso]({{'/capitolo1/' | relative_url}}).
+Scegli **veloce**.
+Scegli **snowghost**.  
+Scegli [adesso](https://deltarune.com/d_a_m_n_y_o_u_t_e_n_n_a/).
 
 ---
 
-*Segnale instabile. Attivazione modulo [EYESIGNAL].*  
+*Segnale instabile. Attivazione modulo [EYE_SIGNAL].*  
 *Errore: troppi tentativi di fuga.*  
 *S9:mt:n sorride.*

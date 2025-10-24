@@ -11,8 +11,7 @@ permalink: /inizia/
 > Ma attenzione: non tutto è [OFFERTA](/pipis.github.io)!!  
 > Alcuni file si mangiano da soli. Altri… si mangiano te.
 
-Hai già visto i [FOGLI DI CALCOLO]({{'/capitolo1/' | relative_url}})?  
-Non importa. Ricominceremo da capo.  
+Ho con me dei FOGLI DI CALCOLO. LI VUOI? LI VUOI? LI VUOI? Certo che li vuoi? Chi non vorrebbe dei dolci, succosi, [[ora in sconto del 25%]] FOGLI DI CALCOLO?
 Ma questa volta, il BIG DEAL è solo per chi osa. Solo per [HYPERLINK BLOCCATO]
 
 ---
@@ -33,4 +32,4 @@ Ci sono due strade principali:
 
 > Ogni scelta è [FRAMMENTO].  
 > Ogni clic è un passo verso la [LIBERTÀ].  
-> Ma non fidarti mai completamente del testo… né di me.
+> Ma non fidarti mai completamente del testo… né di me, né di te, né di [[Nevron]]
