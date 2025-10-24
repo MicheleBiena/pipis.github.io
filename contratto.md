@@ -15,7 +15,7 @@ permalink: /contratto/
 Mi raccomando, restate connessi e non perdetevi un solo [[LA PIL3 #2 - UN NABBONE IN SVANTAGGIO]] momento! 
 
 [[NABBULE']] bravo, da ora in avanti sei in pieno possesso dei FOGLI DI CALCOLO. 
-> Ma anche il vecchio e caro [[*******]] ottiene un guadagno da questo contratto... ancora poco e avrò il tuo [OGGETTO A FORMA DI CUORE]
+> Ma anche il vecchio e caro [[S+++XXX]] ottiene un guadagno da questo contratto... ancora poco e avrò il tuo [OGGETTO A FORMA DI CUORE]
 
 [[Staje senza penzier']] e continua pure questo PROTOCOLLO ZUCCA_RE, ma non prima di aver letto i tuoi [FOGLI]({{'/capitolo1/' | relative_url}})
 
