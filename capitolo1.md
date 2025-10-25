@@ -61,6 +61,7 @@ Il boss segreto è **Jevil**, un giullare impazzito che “ha visto la verità�
 ### Finale
 Dopo la sconfitta del Re, Kris e Susie tornano nel mondo della luce, e noi giocatori possiamo realizzare che ogni Oscuro è in realtà un giocattolo dello sgabuzzino, gli abitanti del castello sono carte, ci sono pezzi di dama e scacchi, persino tessere di un puzzle e un peluche di un gattone.  
 Tutto sembra normale… fino a quando, nella scena finale, **Kris si alza dal letto, estrae la propria anima e la getta via**, rivelando qualcosa di inquietante sul suo controllo e sulla propria natura.
+Se vuoi rivedere la scena, clicca pure [qui](https://youtu.be/2GJWm1XXQto?si=FehAbN3Ar6pVWkuK&t=17193)
 
 ---
 
